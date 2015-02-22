@@ -7,7 +7,7 @@
         "source": {
           "type": "git",
           "url": "https://github.com/nixxquality/anime.is-fantabulo.us",
-          "reference": "master"
+          "reference": "laravel"
         }
       }
     },
