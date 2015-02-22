@@ -1,9 +1,9 @@
 {
   "packages": {
     "anime": {
-      "dev-master": {
+      "dev-laravel": {
         "name": "anime",
-        "version": "dev-master",
+        "version": "dev-laravel",
         "source": {
           "type": "git",
           "url": "https://github.com/nixxquality/anime.is-fantabulo.us",
