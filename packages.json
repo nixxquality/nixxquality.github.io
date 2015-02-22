@@ -1,0 +1,24 @@
+{
+  "packages": {
+    "anime": {
+      "dev-master": {
+        "name": "anime",
+        "version": "dev-master",
+        "source": {
+          "type": "git",
+          "url": "https://github.com/nixxquality/anime.is-fantabulo.us"
+        }
+      }
+    },
+    "youtube": {
+      "dev-master": {
+        "name": "youtube",
+        "version": "dev-master",
+        "source": {
+          "type": "git",
+          "url": "https://github.com/nixxquality/youtube.is-fantabulo.us"
+        }
+      }
+    }
+  }
+}
